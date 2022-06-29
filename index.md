@@ -1,4 +1,6 @@
-[ site.title ]: "To Do | Classroom"
+---
+title: To Do | Classroom
+---
 
 # Well, Hello There!
 ### Welcome to The Theta Project
